@@ -11,7 +11,7 @@ Individual images are pushed towards individual image container. The new image i
 
 # How to install it ?
 1. Download the the [lastest release here](https://github.com/fabricecordelieres/IJ_LiveFeed_Simulator/releases/download/v1.0.0/LiveFeed_Simulator.jar).
-2. Either drag-and-drop the ar file to the ImageJ's toolbar or save it to ImageJ's plugins folder (within ImageJ's installation folder).
+2. Either drag-and-drop the jar file to the ImageJ's toolbar or save it to ImageJ's plugins folder (within ImageJ's installation folder).
 
 # How to use it ?
 
