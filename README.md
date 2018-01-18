@@ -9,6 +9,9 @@ Individual images are pushed towards one single image container. The image is re
 ## Multiple frames
 Individual images are pushed towards individual image container. The new image is loaded onto its own window as it becomes available.
 
+## Save
+Individual images are pushed towards a designated output folder. The "new" files are copied to the output folder as they become available.
+
 # How to install it ?
 1. Download the the [lastest release here](https://github.com/fabricecordelieres/IJ_LiveFeed_Simulator/releases/download/v1.0.0/LiveFeed_Simulator.jar).
 2. Either drag-and-drop the jar file to the ImageJ's toolbar or save it to ImageJ's plugins folder (within ImageJ's installation folder).
