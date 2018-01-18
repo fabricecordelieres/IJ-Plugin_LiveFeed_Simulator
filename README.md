@@ -1,7 +1,7 @@
 # LiveFeed Simulator
 This ImageJ plugin aims at simulating software the would push images at regular time interval into ImageJ. It comes in two flavours, simulating two possible behaviours.
 
-# One plugin, two functionalities:
+# One plugin, three functionalities:
 
 ## Single frame
 Individual images are pushed towards one single image container. The image is refreshed as a new image is becoming available. 
