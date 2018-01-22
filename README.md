@@ -1,5 +1,5 @@
 # LiveFeed Simulator
-This ImageJ plugin aims at simulating software the would push images at regular time interval into ImageJ. It comes in two flavours, simulating two possible behaviours.
+This ImageJ plugin aims at simulating software that would push images at regular time interval into ImageJ. It comes in three flavours, simulating three possible behaviours.
 
 # One plugin, three functionalities:
 
