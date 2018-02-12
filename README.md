@@ -18,9 +18,9 @@ Individual images are pushed towards a designated output folder. The "new" files
 
 # How to use it ?
 
-For both functionalities, the plugins expects a folder containing individual images to be used for simulating the images's stream.
-When launched, both plugins will ask the user to point at this folder.
-A second dialog box should then pop-up: it allows setting the time delay to wait for before loading next image.
+For all functionalities, the plugins expects a folder containing individual images to be used for simulating the images's stream.
+When launched, the plugins will ask the user to point at this folder.
+A second dialog box should then pop-up: it allows setting the time delay to wait before loading next image.
 
 **NB:** To stop running the plugin before last image has been reached, press the ```Esc``` key
 
